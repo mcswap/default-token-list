@@ -1,0 +1,39 @@
+[
+
+  {
+    "name": "Ethereum(ETH)",
+    "address": "0x4D59F65BA2D66D80F321E66BE5DF152E71AA302F",
+    "symbol": "ETH",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+  },
+ 
+  {
+    "name": "Bitcoin",
+    "address": "0x0B511B28D410B729D9D1502445FC1DAFE3B52810",
+    "symbol": "BTC",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
+  },
+ 
+  {
+    "name": "Tether USD",
+    "address": "0xD7377F28E13C4B255CD532E8182C0EF0F332E33F",
+    "symbol": "USDT",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+  },
+ 
+  {
+    "name": "HKMC",
+    "address": "0x50ED1A4BD6335F1FE3570A4C167EF0A765817F67",
+    "symbol": "HKMC",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://coin.top/production/upload/logo/TKWkvfnwJoxgpx94FQ3sufPV2SFcdozHvY.jpeg?t=1623388046533"
+  }  
+  
+]
