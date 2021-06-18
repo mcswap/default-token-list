@@ -1,6 +1,6 @@
 {
   "name": "MC Swap Tokens",
-  "timestamp": "2021-06-17T01:34:03.851Z",
+  "timestamp": "2021-06-18T01:45:51.675Z",
   "version": {
     "major": 2,
     "minor": 0,
@@ -15,33 +15,33 @@
   "tokens": [
     {
       "name": "Bitcoin",
-      "address": "0x0B511b28D410b729D9d1502445fc1dafE3B52810",
+      "address": "0x84716914C0fDf7110A44030d04D0C4923504D9CC",
       "symbol": "BTC",
-      "chainId": 1,
-      "decimals": 6,
+      "chainId": 11111,
+      "decimals": 8,
       "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
     },
     {
       "name": "Ethereum(ETH)",
-      "address": "0x4d59F65Ba2D66d80f321E66Be5Df152e71AA302F",
+      "address": "0x53908308f4AA220FB10d778B5D1B34489cd6eDfc",
       "symbol": "ETH",
-      "chainId": 1,
-      "decimals": 6,
+      "chainId": 11111,
+      "decimals": 18,
       "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
     },
     {
       "name": "HKMC",
-      "address": "0x50ED1a4bD6335F1fe3570A4C167Ef0a765817f67",
+      "address": "0x68B0ad0B1fb3811BE676B05047A5A43f8170Bac1",
       "symbol": "HKMC",
-      "chainId": 1,
+      "chainId": 11111,
       "decimals": 6,
       "logoURI": "https://coin.top/production/upload/logo/TKWkvfnwJoxgpx94FQ3sufPV2SFcdozHvY.jpeg?t=1623388046533"
     },
     {
       "name": "Tether USD",
-      "address": "0xD7377F28E13C4B255cD532E8182C0Ef0f332E33f",
+      "address": "0xa614f803B6FD780986A42c78Ec9c7f77e6DeD13C",
       "symbol": "USDT",
-      "chainId": 1,
+      "chainId": 11111,
       "decimals": 6,
       "logoURI": "https://coin.top/production/logo/usdtlogo.png"
     }
