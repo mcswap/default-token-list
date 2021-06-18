@@ -1,7 +1,7 @@
 const { version } = require("../package.json");
 const mainnet = require("./tokens/mainnet.json");
 // const nile = require("./tokens/nile.json");
-// const shasta = require("./tokens/shasta.json");
+const shasta = require("./tokens/shasta.json");
 const { toChecksumAddress } = require("ethereum-checksum-address");
 
 module.exports = function buildList() {
@@ -19,7 +19,7 @@ module.exports = function buildList() {
       "https://coin.top/production/upload/logo/TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn.png",
     keywords: ["HKMC", "default"],
     // tokens: [...mainnet, ...nile, ...shasta]
-    tokens: [...mainnet]
+    tokens: [...mainnet, ...shasta]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
